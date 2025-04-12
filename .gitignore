@@ -1,0 +1,6 @@
+saved_variables.cfg
+adxl_results/belts/*.csv
+adxl_results/vibrations/*.tar.gz
+*.bkp
+*.conf.2*
+printer-*.cfg
